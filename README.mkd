@@ -1,0 +1,19 @@
+template.sh
+===========
+
+This is my Bash script template or boilerplate if you like call it that way.
+
+Usage
+-----
+
+There are some comments around the code. If you feel anything is not clearly explained, please open an issue, or better, open a pull request of your improvement.
+
+Issues
+------
+
+Feel free to use Issues for reporting or suggesting anything.
+
+License
+-------
+
+No license, placed in Public Domain, just do whatever you want with it.
